@@ -1,14 +1,7 @@
 /* 
-Project 1, CS 3345
 Name: Rahul Prakash Sonwalkar
-NetID: rxs165730
-Course: CS 3345 (Prof. Anjum Chida)
-Section: 003
 Date: 09/04/2017
-Semester: Fall 2017
-
 Implementation of Sieve of Erotosthenes Algorithm to find all prime numbers upto N.
-
 */
 
 import java.util.*;
